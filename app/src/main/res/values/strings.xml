@@ -3,6 +3,10 @@
     <string name="EMAIL_HINT">example@site.com</string>
     <string name="EMAIL">Email</string>
     <string name="LOGIN">Login</string>
+    <string name="SIGNUP">New Account</string>
+    <string name="RECOVER_LBL">Enter your Email to reset your password. A link will be sent to you</string>
+    <string name="SIGNUP_BTN">Register Now</string>
+    <string name="FULL_NAME">Full Name</string>
     <string name="ENTER">Enter</string>
     <string name="PASSWORD_HINT">•••••••••••</string>
     <string name="NO_ACCOUNT_REGISTER">No account? Register Now</string>
