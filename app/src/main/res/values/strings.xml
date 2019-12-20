@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirebaseAuthApp</string>
+    <string name="EMAIL_HINT">example@site.com</string>
+    <string name="EMAIL">Email</string>
+    <string name="LOGIN">Login</string>
+    <string name="ENTER">Enter</string>
+    <string name="PASSWORD_HINT">•••••••••••</string>
+    <string name="NO_ACCOUNT_REGISTER">No account? Register Now</string>
+    <string name="FORGOT_PASSWORD">Forgot Password? Click Here</string>
 </resources>
