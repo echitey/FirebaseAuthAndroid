@@ -6,9 +6,15 @@
     <string name="SIGNUP">New Account</string>
     <string name="RECOVER_LBL">Enter your Email to reset your password. A link will be sent to you</string>
     <string name="SIGNUP_BTN">Register Now</string>
+    <string name="CANCEL">Cancel</string>
     <string name="FULL_NAME">Full Name</string>
     <string name="ENTER">Enter</string>
+    <string name="LOGOUT">Logout</string>
     <string name="PASSWORD_HINT">•••••••••••</string>
     <string name="NO_ACCOUNT_REGISTER">No account? Register Now</string>
     <string name="FORGOT_PASSWORD">Forgot Password? Click Here</string>
+    <string name="ALERT_FULLNAME_SIZE">The full name should have at least 3 chars.</string>
+    <string name="ALERT_EMAIL_VALID">The email is not valid</string>
+    <string name="ALERT_PASSWORD_SIZE">The password should have at least 6 chars.</string>
+    <string name="ALERT_PASSWORD_NULL">Password cant be null</string>
 </resources>

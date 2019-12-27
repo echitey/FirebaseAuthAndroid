@@ -49,7 +49,7 @@
             tools:layout_editor_absoluteY="112dp" />
 
         <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/etPasswordLayout"
+            android:id="@+id/edtPasswordLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:passwordToggleEnabled="true">
@@ -63,7 +63,7 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button
-            android:id="@+id/btnLogin"
+            android:id="@+id/btnRegister"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginTop="15dp"
