@@ -65,6 +65,15 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         btnForgotPassword.setOnClickListener(this);
 
         loadingLayout = findViewById(R.id.loadingLayout);
+
+        FirebaseUser currentUser = mAuth.getCurrentUser();
+
+        if (currentUser != null){
+
+            intent = new Intent(LoginActivity.this,MainActivity.class);
+            startActivity(intent);
+            finish();
+        }
     }
 
     @Override

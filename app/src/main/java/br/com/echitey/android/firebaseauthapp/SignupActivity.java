@@ -51,6 +51,8 @@ public class SignupActivity extends AppCompatActivity {
         edtFullName = findViewById(R.id.edtFullName);
         edtPassword = findViewById(R.id.edtLoginPassword);
         loadingLayout = findViewById(R.id.loadingLayout);
+
+        mAuth = FirebaseAuth.getInstance();
     }
 
     public void nothing(View view) {

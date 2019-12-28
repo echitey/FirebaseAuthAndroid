@@ -93,6 +93,8 @@ public class MainActivity extends AppCompatActivity {
 
         FirebaseAuth.getInstance().signOut();
         deleteLocal();
+        intent = new Intent(MainActivity.this,LoginActivity.class);
+        startActivity(intent);
         finish();
     }
 }
