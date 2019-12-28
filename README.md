@@ -15,7 +15,7 @@ Here are some tasks to perform to make the app work:
 `allow read, write: if request.auth.uid != null`
 * 
 
-![alt text](login.png "Login Screenshot"){:height="600px" width="300px"}
+![alt text](login.png "Login Screenshot")
 ![alt text](signup.png "Signup Screenshot")
 ![alt text](reset.png "Recover Screenshot")
 ![alt text](home.png "Home Screenshot")
